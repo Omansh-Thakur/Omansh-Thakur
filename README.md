@@ -14,7 +14,6 @@
 - 🎓 Computer Science Engineering Student  
 - 🤖 Interested in **Artificial Intelligence, Machine Learning & Computer Vision**
 - 🎮 Exploring **Game Development**
-- 🧠 Curious about **Psychology & Philosophy**
 - 🚀 Passionate about building projects that solve real-world problems
 
 ---
