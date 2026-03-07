@@ -127,9 +127,9 @@ https://github.com/Omansh-Thakur
 ## 📚 Currently Learning
 
 - Deep Learning
-- Advanced Computer Vision
-- System Design
 - Game Development
+- Web Development
+- Android Development
 
 ---
 
