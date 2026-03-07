@@ -116,6 +116,14 @@ https://github.com/Omansh-Thakur
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+![snake gif](https://github.com/Omansh-Thakur/Omansh-Thakur/blob/output/github-contribution-grid-snake.svg)
+
+</p>
+
 ## 📚 Currently Learning
 
 - Deep Learning
