@@ -34,7 +34,7 @@ A smart budgeting and expense tracking system designed to help users manage thei
 - Spending insights and savings analysis
 
 🔗 Project Repository  
-[https://github.com/Omansh-Thakur](https://github.com/Omansh-Thakur/SmartSaving.git)
+[https://github.com/Omansh-Thakur/SmartSaving](https://github.com/Omansh-Thakur/SmartSaving.git)
 
 ---
 
