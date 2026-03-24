@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omansh Thakur</h1>
+<h1 align="center">Hi 👋 Omansh Thakur! 🎮✨</h1>
 <h3 align="center">Computer Science Engineer | AI & ML Enthusiast | Developer</h3>
 
 <p align="center">
