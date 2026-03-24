@@ -116,13 +116,13 @@ https://github.com/Omansh-Thakur
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
-<p align="center">
+ <p align="center">
+ 
+ ![snake gif](https://github.com/Omansh-Thakur/Omansh-Thakur/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/Omansh-Thakur/Omansh-Thakur/blob/output/github-contribution-grid-snake.svg)
-
-</p>
+ </p> -->
 
 ## 📚 Currently Learning
 
