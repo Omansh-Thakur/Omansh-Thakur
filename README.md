@@ -70,7 +70,7 @@ A procedurally generated dungeon crawler built in Python.
 - Inventory and combat mechanics
 
 🔗 Project Repository  
-https://github.com/Omansh-Thakur
+[https://github.com/Omansh-Thakur/Procedural-roguelike](https://github.com/Omansh-Thakur/procedural-roguelike.git)
 
 ---
 
