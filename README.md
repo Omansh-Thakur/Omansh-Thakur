@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Omansh-Thakur">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Machine+Learning;Game+Development;Always+Learning+New+Things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Machine+Learning;Game+Development;Software+Development;Always+Learning+New+Things&center=true&width=500&height=50">
   </a>
 </p>
 
