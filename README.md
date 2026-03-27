@@ -92,18 +92,18 @@ A procedurally generated dungeon crawler built in Python.
 ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 
+<!--
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Omansh-Thakur&show_icons=true&theme=tokyonight"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omansh-Thakur&layout=compact&theme=tokyonight"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omansh-Thakur&layout=compact&theme=tokyonight"/>
 
 </p>
-
+-->
 ---
 
 ## 📈 Contribution Graph
