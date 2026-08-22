@@ -106,13 +106,13 @@ A procedurally generated dungeon crawler built in Python.
 -->
 ---
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omansh-Thakur&theme=tokyo-night"/>
 
-</p>
+</p> -->
 
 ---
 
@@ -124,12 +124,12 @@ A procedurally generated dungeon crawler built in Python.
 
  </p> -->
 
-## 📚 Currently Learning
+<!-- ## 📚 Currently Learning
 
 - Deep Learning
 - Game Development
 - Web Development
-- Android Development
+- Android Development -->
 
 ---
 
